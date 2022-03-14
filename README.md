@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=150&text=Younghun%20👋%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&height=150&text=younghun%20👋%20&fontSize=70)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width=49%
