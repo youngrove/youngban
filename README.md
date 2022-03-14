@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=150&text=Younghun%20👋%20&fontSize=90)
 
 
-![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngban&count_private=true&hide=stars&card_width=50%&custom_title=younghun's%20Github%20Stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngban&layout=compact&card_width=50%)](https://github.com/anuraghazra/github-readme-stats)
+![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngban&count_private=true&hide=stars&card_width='50%'&custom_title=younghun's%20Github%20Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngban&layout=compact&card_width='50%')](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
