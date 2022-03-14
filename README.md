@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=150&text=Younghun%20👋%20&fontSize=90)
 
-
-![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngban&count_private=true&hide=stars,prs&custom_title=younghun's%20Github%20Stats&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngban&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=50%
+       src="https://github-readme-stats.vercel.app/api/pin/?username=youngban&count_private=true&hide=stars,prs&custom_title=younghun's%20Github%20Stats&hide_rank=true&theme=graywhite&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=50%
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngban&layout=compact" />
+</a>
 
 <!--
 **youngban/youngban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
