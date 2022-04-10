@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=150&text=younghun%20👋%20&fontSize=70)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=49%
-       src="https://github-readme-stats.vercel.app/api?username=youngban&count_private=true&hide=stars,prs&custom_title=younghun's%20Github%20Stats&hide_rank=true" />
-</a>
-
 <!--
 **youngban/youngban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
